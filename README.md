@@ -11,7 +11,7 @@ GenStage based worker queue with multiple backing store adapters
 
 ## Adapters
 
-- [ ] :queue or LocalQueue
+- [ ] Erlang's :queue module with wrapper
 - [ ] Redis
 - [ ] Google Pub/Sub
 - [ ] AWS SQS
