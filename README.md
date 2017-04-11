@@ -21,3 +21,5 @@ GenStage based worker queue with multiple backing store adapters
 - [ ] Queue peeking latency
 - [ ] Queue popping latency
 - [ ] Adapter Configs
+- [ ] Maximum Demand (Affects number of active processors at any single point of time)
+- [ ] Minumum Demand (Minimum availability before requesting for job)
