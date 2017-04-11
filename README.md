@@ -6,7 +6,7 @@ GenStage based worker queue with multiple backing store adapters
 ## Worker
 
 - [ ] Shigoto.Producer (Sourced from the store adapter)
-- [ ] Shigoto.Consumer (ConsumerSupervisor)
+- [ ] Shigoto.Consumer (ConsumerSupervisor that spawns and supervise Processor for each job)
 - [ ] Shigoto.Processor (Task based)
 
 ## Adapters
